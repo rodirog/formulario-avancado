@@ -1,4 +1,4 @@
-# Reacreating a form layout
+# Recreating a form layout
 ![image](https://github.com/rodirog/formulario-avancado/assets/101756238/a830932e-f0de-42be-9a46-61c60c682a25)
 
 A web page with a mentorship evaluation form recreated from an existing Figma design
